@@ -20,6 +20,12 @@ At first, we choose the tool we like. However, it will shape us in the future. I
 
 The official website: https://missing.csail.mit.edu. **If you want a better reading experience, you may visit my [blog](https://martinlwx.github.io).**
 
+## Resources
+🎥：<https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J>
+
+🏷 &&⌨️：<https://missing.csail.mit.edu/2020/>
+
+
 ## Contents
 
 
